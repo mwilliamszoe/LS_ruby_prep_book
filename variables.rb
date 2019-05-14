@@ -19,7 +19,3 @@ first_name = gets.chomp
 puts "Whats your last name?"
 last_name = gets.chomp
 puts "wasup " + first_name + " " + last_name + "!"
-
-# 5
-
-# 6
